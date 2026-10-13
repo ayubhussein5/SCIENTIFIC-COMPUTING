@@ -2,10 +2,10 @@
 
 **Name:** Ayub Hussein
 **Admission number:** BSCCS/2024/56898
-**Course:** BIT 2118 Scientific Computing
+**Course:** BIT 2118-SCIENTIFIC COMPUTING AND BIT4131-STATISTICAL COMPUTING
 
 ## About
-This repository contains my individual work for Tasks 2 to 20 of the BIT 2118 group work.
+This repository contains my individual work for Tasks 2 to 20 of the BIT 2118 AND BIT4131 group work.
 For each task I:
 1. Identified the input values and the mathematical operation.
 2. Changed at least one input and explained how the result changed.
