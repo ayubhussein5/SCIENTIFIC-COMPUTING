@@ -56,4 +56,4 @@ Run any program, for example:
     python new/Task_02_greenhouse_humidity.py
 
 ## Documentation
-The full explanation for every task is in `BIT2118.docx AND BIT4131`.
+The full explanation for every task is in `BIT2118 AND BIT4131`.
