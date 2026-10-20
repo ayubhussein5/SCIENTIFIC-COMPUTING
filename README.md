@@ -1,10 +1,10 @@
-# BIT 2118-SCIENTIFIC COMPUTING AND BIT4131-STATISTICAL COMPUTING
+# BIT 2118-SCIENTIFIC COMPUTING 
 
 **Name:** Ayub Hussein
 
 **Admission number:** BSCCS/2024/56898
 
-**Course:** BIT 2118-SCIENTIFIC COMPUTING AND BIT4131-STATISTICAL COMPUTING
+**Course:** BIT 2118-SCIENTIFIC COMPUTING 
 
 ## About
 This repository contains my individual work for Tasks 2 to 20 of the BIT 2118 AND BIT4131 group work.
@@ -56,4 +56,4 @@ Run any program, for example:
     python new/Task_02_greenhouse_humidity.py
 
 ## Documentation
-The full explanation for every task is in `BIT2118 AND BIT4131`.
+The full explanation for every task is in 'BIT2118 '
